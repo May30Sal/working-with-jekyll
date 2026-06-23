@@ -1,4 +1,12 @@
+---
+layout: post
+title: "My first blog post"
+author: "Danger Mouse"
+---
+
 # Building Websites in GitHub
+{{ page.title}}
+{{ page.author}}
 
 ## Description
 {{ site.description }}
